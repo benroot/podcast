@@ -1,6 +1,5 @@
 ---
 layout: post
-guid: 78841651d855e1900518afc25cf36a79
 title: "Episode 0.0.0 - Just a test"
 date: 2020-08-29 22:47:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/test1.mp3
@@ -12,3 +11,4 @@ length: "335190" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
+This is supposed to be a Podcast link. Maybe these could be the episode notes. I am not sure why the actual MP3 is not being loaded. I also do not know why the artwork I made is not loading either!
