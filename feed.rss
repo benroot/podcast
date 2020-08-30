@@ -16,7 +16,7 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/images/itunes.png</url>
+			<url>https://raw.githubusercontent.com/benroot/twims/gh-pages/images/itunes.png</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
@@ -28,13 +28,8 @@
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
-		<itunes:category text="Music" />
-		<itunes:category text="Technology">
-			<itunes:category text="Podcasting" />
-		</itunes:category>
-		<itunes:category text="Society &amp; Culture">
-			<itunes:category text="Philosophy" />
-		</itunes:category>
+		<itunes:category text="Education" />
+		<itunes:category text="Medicine"/>
 		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
