@@ -29,7 +29,7 @@
 		</itunes:owner>
 		<itunes:image href="{{ site.imageURL }}" />
 		<itunes:category text="Education" />
-		<itunes:category text="Science & Medicine"/>
+		<itunes:category text="Science &amp; Medicine"/>
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
