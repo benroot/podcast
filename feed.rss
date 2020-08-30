@@ -29,22 +29,21 @@
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
 		<itunes:category text="Education" />
-		<itunes:category text="Health"/>
-		<itunes:explicit>yes</itunes:explicit>
+		<itunes:category text="Science & Medicine"/>
+		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.excerpt | xml_escape }}</description>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<guid isPermaLink="true">{{ site.url }}/{{ post.guid}}</guid>
 				<enclosure url="https:{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.imageURL }}" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
