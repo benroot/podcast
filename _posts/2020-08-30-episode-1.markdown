@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Episode 1 - Emergencies, Energy, Studying"
+date: 2020-08-30 23:00:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-1.mp3
+file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-1.m4a
+excerpt: Our first few weeks we covered medical first responder skills, how energy from food moves through our body and cells, and I am learning how to study again.
+summary: Our first few weeks we covered medical first responder skills, how energy from food moves through our body and cells, and I am learning how to study again.
+duration: "07:18" #audio length in min
+length: "7162007" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
+
+
