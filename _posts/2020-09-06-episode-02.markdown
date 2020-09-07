@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Episode 2 - Dietary Reference Intakes, Kussmaul Breathing, and more"
+date: 2020-09-06 23:00:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-02.mp3
+file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-02.m4a
+excerpt: Some highlights from the week in medical school.
+summary: The history of Dietary Reference Guidelines, Kussmaul breathing during Diabetic Ketoacidosis, and more.
+duration: "10:13" #audio length in min
+length: "8,857,707" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
+
+
