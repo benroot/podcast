@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Episode 5 - Active Citizenship in the Community and First Responder Capstone Day"
+date: 2020-09-27 23:30:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-05.mp3
+file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-05.m4a
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "9:50" #audio length in min
+length: "9165156" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
+
+
