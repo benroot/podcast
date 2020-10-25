@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Episode 9 - First quarter of school, Alcohol metabolism, Is going to the gym safe?"
+date: 2020-10-25 17:30:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-09.mp3
+file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-09.m4a
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "9:17" #audio length in min
+length: "9527907" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
+
+
