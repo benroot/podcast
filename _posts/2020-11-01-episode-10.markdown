@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Episode 10 - Back to Campus, Pedigrees, Gross Anatomy"
+date: 2020-11-01 19:15:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-10.mp3
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "9:26" #audio length in min
+length: "9914137" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
+
+
