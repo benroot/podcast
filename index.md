@@ -1,5 +1,5 @@
 # Ben's Week in Medical School Podcast #
-<img href="https://raw.githubusercontent.com/benroot/twims/gh-pages/images/cover1400.jpg" alt="Logo with Stethoscope" width=600px></img>
+<img src="https://raw.githubusercontent.com/benroot/twims/gh-pages/images/cover1400.jpg" alt="Logo with Stethoscope" height=260px></img>
 
 A podcast about my journey through medical school, and a sampling of interesting topics about the human body, health, and medicine. 
 
