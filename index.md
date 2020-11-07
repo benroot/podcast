@@ -1,5 +1,9 @@
+---
+title: Ben's Week in Medical School Podcast
+---
+
 # Ben's Week in Medical School Podcast #
-<img src="https://raw.githubusercontent.com/benroot/twims/gh-pages/images/cover1400.jpg" alt="Logo with Stethoscope" height=260px></img>
+<img src="https://raw.githubusercontent.com/benroot/twims/gh-pages/images/cover1400.jpg" alt="Logo with Stethoscope" height=260px>
 
 A podcast about my journey through medical school, and a sampling of interesting topics about the human body, health, and medicine. 
 
@@ -9,3 +13,8 @@ A podcast about my journey through medical school, and a sampling of interesting
 
 [RSS Feed (for manual adding to your podcast app)](https://www.bencr.me/twims/podcast.xml "Direct RSS Link")
 
+## Episodes
+{% for post in site.posts %}
+{{ post.title | }}
+<audio src="https:{{post.file}}" type="audio/mpeg" controls>I'm sorry. You're browser doesn't support HTML5 <code>audio</code></audio>
+{% endfor %}
