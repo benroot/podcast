@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Episode 11 - Green Week Updates, Physical Medicine and Rehabilitation, First Physical Exam"
+date: 2020-11-08 21:45:40
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-11.mp3
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "8:59" #audio length in min
+length: "9559816" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+{{post.date}}
+
+Week 14 of medical school. 174 weeks until residency Match day.
+
+#### Green Week Updates
+
+Had a week off after finishing my genetics block. Could have used a couple more days, but I got some things done and we had beautiful weather for a few outdoor activities.
+
+#### Physical Medicine and Rehabilitation
+
+I sat in on the American Academy of Physical Medicine and Rehabilitation (AAPMR) Annual Assembly. We learned about what Phsyiatrists have been doing during COVID, and about some of the cool diagnostics and sub specialties of the field.
+
+#### First physical exam
+
+Next week we begin practicing physical exams starting with the heart and lungs.
