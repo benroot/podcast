@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Episode 13 - No More Physicals, Skin, Content Overload, Medical First Responder"
+date: 2020-11-22 22:30:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-13.mp3
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "9:38" #audio length in min
+length: "7973364" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+{{post.date}}
+
+Week 16 of medical school. 
