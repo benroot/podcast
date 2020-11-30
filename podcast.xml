@@ -33,7 +33,7 @@
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
+				<title>Episode {{ post.episode_number | xml_escape }} - {{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.excerpt | xml_escape }}</description>

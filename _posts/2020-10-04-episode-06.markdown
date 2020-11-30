@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Episode 6 - Intro Genetics, and Extracurricular Lectures and Fun"
+title: "Intro Genetics, and Extracurricular Lectures and Fun"
 date: 2020-10-04 23:15:00
+episode_number: 6
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-06.mp3
 file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-06.m4a
 excerpt: Some highlights from the week in medical school.

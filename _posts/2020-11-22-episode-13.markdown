@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 13 - No More Physicals, Skin, Content Overload, Medical First Responder"
+title: "No More Physicals, Skin, Content Overload, Medical First Responder"
+episode_number: 13
 date: 2020-11-22 22:30:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-13.mp3
 excerpt: Some highlights from the week in medical school.

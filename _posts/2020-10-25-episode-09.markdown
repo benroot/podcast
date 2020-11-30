@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 9 - First quarter of school, Alcohol metabolism, Is going to the gym safe?"
+title: "First quarter of school, Alcohol metabolism, Is going to the gym safe?"
+episode_number: 9
 date: 2020-10-25 17:30:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-09.mp3
 file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-09.m4a

@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 17
+episode_number: 14
+title: "Passed my Medical First Responder test, Scary Misconceptions about Race and Skin, Whats coming up"
+date: 2020-11-29 20:50:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-14.mp3
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "8:54" #audio length in min
+length: "8073879" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+{{post.date}}
+
+Week {{week_number}} of medical school. 

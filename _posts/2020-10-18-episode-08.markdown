@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 8 - Studying in Quarantine, Research Ethics, Calico Cats"
+title: "Studying in Quarantine, Research Ethics, Calico Cats"
+episode_number: 8
 date: 2020-10-18 17:30:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-08.mp3
 file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-08.m4a

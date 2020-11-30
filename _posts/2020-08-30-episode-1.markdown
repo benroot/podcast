@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 1 - Emergencies, Energy, Studying"
+title: "Emergencies, Energy, Studying"
+episode_number: 1
 date: 2020-08-30 23:00:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-1.mp3
 file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-1.m4a

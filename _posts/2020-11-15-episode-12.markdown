@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 12 - Immunology Begins, Bacteria and Fungi, Clinic and Physical Exams, Minorities in Medicine Panel"
+title: "Immunology Begins, Bacteria and Fungi, Clinic and Physical Exams, Minorities in Medicine Panel"
+episode_number: 12
 date: 2020-11-15 22:15:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-12.mp3
 excerpt: Some highlights from the week in medical school.

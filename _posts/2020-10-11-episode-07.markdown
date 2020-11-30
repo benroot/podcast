@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 7 - Arteriovenous studies, Grits and vitamin B3, DNA contents"
+title: "Arteriovenous studies, Grits and vitamin B3, DNA contents"
+episode_number: 7
 date: 2020-10-11 22:40:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-07.mp3
 file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-07.m4a

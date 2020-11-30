@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 11 - Green Week Updates, Physical Medicine and Rehabilitation, First Physical Exam"
+title: "Green Week Updates, Physical Medicine and Rehabilitation, First Physical Exam"
+episode_number: 11
 date: 2020-11-08 21:45:40
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-11.mp3
 excerpt: Some highlights from the week in medical school.

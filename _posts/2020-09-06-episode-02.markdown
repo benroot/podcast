@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 2 - Dietary Reference Intakes, Kussmaul Breathing, and more"
+title: "Dietary Reference Intakes, Kussmaul Breathing, and more"
+episode_number: 2
 date: 2020-09-06 23:00:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-02.mp3
 file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-02.m4a

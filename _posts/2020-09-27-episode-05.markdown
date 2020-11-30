@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 5 - Active Citizenship in the Community and First Responder Capstone Day"
+title: "Active Citizenship in the Community and First Responder Capstone Day"
+episode_number: 5
 date: 2020-09-27 23:30:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-05.mp3
 file_itunes: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-05.m4a
