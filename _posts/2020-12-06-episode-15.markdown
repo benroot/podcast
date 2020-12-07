@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 18
+episode_number: 14
+title: "Vaccine news, How Insurance Pays for Healthcare, Parasites, Antibiotics"
+date: 2020-12-06 20:13:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-15.mp3
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "10:36" #audio length in min
+length: "10745138" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+{{post.date}}
+
+Week {{week_number}} of medical school. 
