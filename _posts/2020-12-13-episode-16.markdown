@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 19
+episode_number: 16
+title: "Lecture of the week, Gun Violence, Vaccine Questions"
+date: 2020-12-13 23:53:00
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-16.mp3
+excerpt: Some highlights from the week in medical school.
+summary: 
+duration: "10:14" #audio length in min
+length: "10274925" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+{{post.date}}
+
+Week {{week_number}} of medical school. 
