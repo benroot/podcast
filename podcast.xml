@@ -29,19 +29,20 @@
 		</itunes:owner>
 		<itunes:image href="{{ site.imageURL }}" />
 		<itunes:category text="Education" />
-		<itunes:category text="Health &amp; Medicine"/>
+		<itunes:category text="Health &amp; Fitness">
+		  <itunes:category text="Medicine"/>
+		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
 				<title>Episode {{ post.episode_number | xml_escape }} - {{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<description>{{ post.excerpt | xml_escape }}</description>
+				<description>><![CDATA[{{ post.content }}]]></description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url}}</guid>
 				<enclosure url="https:{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
-				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
