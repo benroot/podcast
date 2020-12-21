@@ -15,6 +15,6 @@ A podcast about my journey through medical school, and a sampling of interesting
 
 ## Episodes
 {% for post in site.posts %}
-### Episode {{ post.episode_number}} - {{ post.title }}
+<a href="{{ site.url }}{{ post.url }}">Episode {{ post.episode_number}} - {{ post.title }}</a>
 <audio src="https:{{post.file}}" type="audio/mpeg" controls>I'm sorry. You're browser doesn't support HTML5 <code>audio</code></audio>
 {% endfor %}

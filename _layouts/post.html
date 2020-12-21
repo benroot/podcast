@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Episode {{page.episode_number}}-Ben's Week in Medical School</title>
+  </head>
+  <body>
+    <a href="{{site.url}}">Home</a>
+<h2>Episode {{page.episode_number}}</h2>
+<h3>{{page.title}}</h3>
+Published {{page.date | date: '%B %d, %Y' }}
+
+<h3>Notes</h3>
+    {{ content }}
+  </body>
+</html>

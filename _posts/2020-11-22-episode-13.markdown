@@ -11,6 +11,4 @@ length: "7973364" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
-{{post.date}}
 
-Week 16 of medical school. 
