@@ -3,7 +3,7 @@ layout: post
 week_number: 20
 episode_number: 17
 title: "Immune Privileged sites, Looking forward to Hematology and Oncology, Doctor Communication"
-date: 2020-12-20 21:45:00
+date: 2020-12-20 22:15:00
 file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-17.mp3
 excerpt: Some highlights from the week in medical school.
 summary: 
