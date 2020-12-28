@@ -1,0 +1,19 @@
+---
+layout: post
+week_number: 21
+title: "Learning for more than the test, What went well last block, Some Favorites of the Year"
+date: 2020-12-27 23:54:11
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-18.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 18
+summary: 
+duration: "10:54" #audio length in min
+length: "10450792" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+Apps I talked about in this episode:
+<ul><li><a href="https://otter.ai">Otter.ai</a> – Phone App for transcription of audio recordings</li>
+<li><a href="https://notion.so">Notion.so</a> – Mobile/Web/Desktop note-taking with great collaboration features</li>
+<li><a href="https://apps.apple.com/us/app/howler-timer/id428846772?mt=12">Howler Timer</a> – good timer app for Mac computers... ArrArroooh!</li></ul>
+
