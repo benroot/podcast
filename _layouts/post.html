@@ -7,10 +7,15 @@
   <body>
     <a href="{{site.url}}">Home</a>
 <h2>Episode {{page.episode_number}}</h2>
-<h3>{{page.title}}</h3>
 Published {{page.date | date: '%B %d, %Y' }}
-
+<h3>{{page.title}}</h3>
+<br/>
+<audio src="https:{{post.file}}" type="audio/mpeg" controls>I'm sorry. You're browser doesn't support HTML5 <code>audio</code></audio>
 <h3>Notes</h3>
-    {{ content }}
+{% if content == "" or content == nil or content == blank %}
+No notes this episode.
+{% else %}
+{{ content }}
+{% endif %}
   </body>
 </html>

@@ -1,0 +1,15 @@
+---
+layout: post
+week_number: 22
+title: "Intro to Blood, Rainbow of Tubes, Helping with a Study in Michigan"
+date: 2021-01-03 23:21:52
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-19.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 19
+summary: 
+duration: "10:50" #audio length in min
+length: "9737700" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+No notes this episode.
