@@ -1,0 +1,18 @@
+---
+layout: post
+week_number: 23
+title: "Aspirin and NSAIDs, Published Some News, Blood Loss Question"
+date: 2021-01-10 22:02:17
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-20.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 20
+summary: 
+duration: "11:25" #audio length in min
+length: "10479434" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+Article link, by Cameron Quon and Ben Root:
+
+[Life as a First Year Medical Student During COVID-19](https://medium.com/medical-multimedia-journalists/life-as-a-first-year-medical-student-during-covid-19-6e73bec58e70)
