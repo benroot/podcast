@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 24
+title: "COVID Vaccine, How We Get Antibodies, Blood Types"
+date: 2021-01-17 20:43:30
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-21.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 21
+summary: 
+duration: "13:19" #audio length in min
+length: "12225674" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+No extra show notes this week.
+
