@@ -1,0 +1,19 @@
+---
+layout: post
+week_number: 25
+title: "Antibody Update, Sickle Cell Disease, Talking about Cancer, Ancient Mesopotamian Medicine"
+date: 2021-01-24 22:56:41
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-22.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 22
+summary: 
+duration: "11:07" #audio length in min
+length: "10281816" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+[NBC Nightly News Report on Monoclonal Antibodies](https://www.nbcnews.com/nightly-news/video/monoclonal-antibodies-going-unused-in-fight-against-covid-99818565783)
+
+[NYTimes story about Helen Obando's Sickle Cell Disease Treatment](https://www.nytimes.com/2020/01/10/the-weekly/sickle-cell-dna-reset.html)
+
+[Food from Ancient Mesopotamia](https://news.yale.edu/2018/06/14/what-did-ancient-babylonians-eat-yale-harvard-team-tested-their-recipes)
