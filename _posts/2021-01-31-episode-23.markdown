@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 26
+title: "2nd dose of vaccine, cancer grading vs. staging, paraneoplastic syndromes"
+date: 2021-01-31 20:27:25
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-23.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 23
+summary: 
+duration: "07:32" #audio length in min
+length: "6700175" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
