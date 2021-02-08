@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 27
+title: "Teaser for Spirituality in Medicine, and Musculoskeletal System Block"
+date: 2021-02-07 21:19:40
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-24.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 24
+summary: 
+duration: "02:18" #audio length in min
+length: "1784463" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
