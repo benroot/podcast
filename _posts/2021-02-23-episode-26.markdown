@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 29
+title: "Anatomy Lab Begins, Research in Haldol Study"
+date: 2021-02-23 20:35:26
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-26.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 26
+summary: 
+duration: "09:42" #audio length in min
+length: "8484448" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
