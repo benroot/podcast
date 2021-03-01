@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 30
+title: "Righty Tighty, VR in Palliative Care, How Bones Change, Reflexes are Neat"
+date: 2021-02-28 23:11:32
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-27.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 27
+summary: 
+duration: "08:22" #audio length in min
+length: "7627959" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
