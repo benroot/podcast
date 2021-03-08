@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 31
+title: "PACE and Caregiving, Nerve Pain, My Teachers are My Doctors, Lefty Tools"
+date: 2021-03-07 22:43:56
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-28.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 28
+summary: 
+duration: "13:11" #audio length in min
+length: "12031797" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
