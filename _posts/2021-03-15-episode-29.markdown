@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 32
+title: "Community COVID-19 Vaccinations, Emergency Department Tour and Research, Anatomy Practical Exam Preview "
+date: 2021-03-15 00:46:07
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-29.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 29
+summary: 
+duration: "09:53" #audio length in min
+length: "9570550" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+[Fox17 News: Kalamazoo Community Vaccination Clinic](https://www.fox17online.com/news/local-pharmacy-nonprofits-bring-2-500-vaccine-doses-to-underserved-kalamazoo-county-neighborhoods)
