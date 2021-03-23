@@ -1,0 +1,17 @@
+---
+layout: post
+week_number: 33
+title: "Bone is Alive, Inspired for Projects, Updates to study method"
+date: 2021-03-22 22:36:15
+file: //raw.githubusercontent.com/benroot/twims/gh-pages/audio/episode-30.mp3
+excerpt: Some highlights from the week in medical school.
+episode_number: 30
+summary: 
+duration: "10:37" #audio length in min
+length: "10057104" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+
+
